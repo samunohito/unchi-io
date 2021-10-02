@@ -5,6 +5,8 @@
 必ずともあなたのアプリケーション開発を助けるものであるとは限りません！  
 !! caution !! caution !! caution !! caution !! caution !!  
 
+![sample-anim](https://user-images.githubusercontent.com/46447427/135719309-384c5c81-2a9e-4e94-8ff3-1dce23da49dd.gif)
+
 ## Description
 ひたすらうんちを垂れ流すOutputStreamです。  
 至る所で見かける、↓のようなコピペにインスピレーションを受けて作りました。
